@@ -1,0 +1,23 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "post"
+pageRef = "posts"
+identifier = "L8b6cFKYJW"
+weight = 9_999
+
+[[main]]
+name = "POST"
+pageRef = "posts"
+identifier = "gU9nIvr2W4"
+weight = 9_999
+
+[[main]]
+pre = "apple"
+url = "http://jssong.tistory.com"
+identifier = "hSajtoRqkh"
+weight = 9_999
+
+[[footer]]
+none = "none"

@@ -1,0 +1,4 @@
+baseURL = 'https://jssong84.github.io/'
+languageCode = 'ko'
+title = 'jssong84'
+theme = 'blowfish'
