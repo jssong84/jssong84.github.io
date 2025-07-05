@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://jssong84.github.io/sitemap.xml
