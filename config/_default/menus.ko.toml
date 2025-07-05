@@ -14,46 +14,46 @@
   name = "About"
   pageRef = "about"
   weight = 9
-
+  
 [[main]]
-  name = "Docs"
+  name = "문서"
   pageRef = "docs"
   weight = 10
 
 [[main]]
-  name = "Shortcodes"
+  name = "숏 코드"
   pageRef = "docs/shortcodes"
   weight = 15
 
 [[main]]
-  name = "Samples"
-  parent = "Examples"
+  name = "연습"
+  weight = 20
+
+[[main]]
+  name = "예제"
+  parent = "연습"
   pageRef = "samples"
   weight = 16
 
 [[main]]
-  name = "Examples"
-  weight = 20
-
-[[main]]
-  name = "Showcase"
-  parent = "Examples"
+  name = "쇼케이스"
+  parent = "연습"
   pageRef = "examples"
   weight = 30
 
 [[main]]
-  name = "Recipes"
-  parent = "Examples"
+  name = "레시피"
+  parent = "연습"
   pageRef = "guides"
   weight = 40
 
 [[main]]
-  name = "Users"
+  name = "유저"
   pageRef = "users"
   weight = 90
 
 [[main]]
-  name = "Merch"
+  name = "메르치"
   url = "https://www.teepublic.com/user/blowfish-store/t-shirts"
   weight = 100
 
@@ -86,11 +86,11 @@
 # the copyright notice. Configure as per the main menu above.
 
  [[footer]]
-   name = "Tags"
+   name = "태그"
    pageRef = "tags"
    weight = 10
 
  [[footer]]
-   name = "Authors"
+   name = "작성자"
    pageRef = "authors"
    weight = 20
