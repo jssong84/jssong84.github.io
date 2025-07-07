@@ -4,18 +4,19 @@ weight = 2
 title = "jssong84 | Notion, ESP32"
 
 [params]
+  name = "jssong84"
   displayName = "English"
   isoCode = "en"
   rtl = false
-  dateFormat = "2006-01-02"
-  logo = "img/logo_inverted@0.25x.png"
+  dateFormat = "2 January 2006"
+  logo = "img/logo.001.png"
   secondaryLogo = "img/logo@0.25x.png"
   description = "jssong84 | Notion, ESP32"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
   name = "jssong84"
-  image = "img/bw_avatar.jpg"
+  image = "img/profile.png"
   headline = "See you at the zenith of a dream."
   bio = "See you at the zenith of a dream."
   links = [

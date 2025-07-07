@@ -8,14 +8,14 @@ title = "jssong84 | Notion, ESP32"
   isoCode = "ko"
   rtl = false
   dateFormat = "2006-01-02"
-  logo = "img/logo_inverted@0.25x.png"
-  secondaryLogo = "img/logo@0.25x.png"
+  logo = "img/logo.001.png"
+  secondaryLogo = "img/logo.002.png"
   description = "jssong84 | Notion, ESP32"
   # copyright = "Copy, _right?_ :thinking_face:"
 
   [params.author]
   name = "jssong84"
-  image = "img/bw_avatar.jpg"
+  image = "img/profile.png"
   headline = "꿈의 정상에서 만나요."
   bio = "꿈의 정상에서 만나요."
   links = [

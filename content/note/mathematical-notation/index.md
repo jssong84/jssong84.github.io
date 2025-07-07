@@ -10,7 +10,7 @@ KaTeX can be used to render mathematical notation within articles.
 
 <!--more-->
 
-{{< katex >}}
+{{</* katex */>}}
 
 Blowfish will only bundle the KaTeX assets into your project if you make use of mathematical notation. In order for this to work, simply include the [`katex` shortcode]({{< ref "note/shortcodes#katex" >}}) within the article. Example below:
 

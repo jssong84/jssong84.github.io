@@ -11,39 +11,39 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "About"
+  name = "소개"
   pageRef = "about"
   weight = 10
 
 [[main]]
-  name = "Posts"
+  name = "글"
   pageRef = "posts"
   weight = 20
 
 [[main]]
-  name = "Projects"
+  name = "프로젝트"
   weight = 30
 
 [[main]]
-  name = "Notion"
-  parent = "Projects"
+  name = "노션"
+  parent = "프로젝트"
   pageRef = "notion"
   weight = 40  
 
 [[main]]
   name = "ESP32"
-  parent = "Projects"
+  parent = "프로젝트"
   pageRef = "esp32"
   weight = 50
 
 [[main]]
-  name = "Note"
-  parent = "Projects"
+  name = "노트"
+  parent = "프로젝트"
   pageRef = "note"
   weight = 60
 
 [[main]]
-  name = "Tags"
+  name = "태그"
   pageRef = "tags"
   weight = 1000
 

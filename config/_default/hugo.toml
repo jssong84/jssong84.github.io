@@ -29,7 +29,7 @@ enableEmoji = true
 [taxonomies]
   tag = "tags"
   category = "categories"
-  author = "authors"
+  #author = "authors"
   series = "series"
 
 [sitemap]

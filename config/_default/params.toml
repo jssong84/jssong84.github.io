@@ -50,16 +50,16 @@ showViews = false
 showLikes = false
 showDateOnlyInArticle = true
 showDateUpdated = false
-showAuthor = true
+showAuthor = false
 showHero = true
 heroStyle = "background"
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
 showBreadcrumbs = true
 showDraftLabel = true
-showEdit = true
-editURL = "https://github.com/nunocoracao/n9o.xyz/tree/main/content"
-editAppendPath = true
+showEdit = false
+#editURL = "https://github.com/nunocoracao/n9o.xyz/tree/main/content"
+editAppendPath = false
 seriesOpened = true
 showHeadingAnchors = true
 showPagination = true
@@ -82,7 +82,7 @@ sharingLinks = [
   "facebook",
   "email"
 ]
-showZenMode = true
+#showZenMode = true
 
 [list]
 showHero = true
@@ -90,7 +90,7 @@ heroStyle = "background"
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = false
 showBreadcrumbs = false
-showSummary = false
+showSummary = true
 showViews = false
 showLikes = false
 showTableOfContents = false
@@ -110,7 +110,7 @@ heroStyle = "background"
 showBreadcrumbs = false
 showViews = false
 showLikes = false
-showTableOfContents = false
+showTableOfContents = true
 cardView = false
 
 [term]
